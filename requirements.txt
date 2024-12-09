@@ -1,0 +1,18 @@
+aniso8601 @ file:///tmp/build/80754af9/aniso8601_1614708839015/work
+blinker @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/blinker_1699474692786/work
+click @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/click_1699473800648/work
+colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1699472650914/work
+Flask @ file:///C:/b/abs_f9w7doyu0h/croot/flask_1716545924884/work
+Flask-Cors @ file:///tmp/build/80754af9/flask-cors_1609957731919/work
+Flask-RESTful @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/flask-restful_1699556760155/work
+gunicorn==23.0.0
+itsdangerous @ file:///C:/b/abs_c4vwgdr5yn/croot/itsdangerous_1716533399914/work
+Jinja2 @ file:///C:/b/abs_ddyeze2h6_/croot/jinja2_1730903330414/work
+MarkupSafe @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/markupsafe_1707425732791/work
+packaging==24.2
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+pytz @ file:///C:/b/abs_6ap4tsz1ox/croot/pytz_1713974360290/work
+setuptools==75.1.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+Werkzeug @ file:///C:/b/abs_b21bhstb1q/croot/werkzeug_1731005800632/work
+wheel==0.44.0
